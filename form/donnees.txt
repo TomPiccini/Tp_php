@@ -1,0 +1,7 @@
+----------Données du formulaire------------
+Yven;masculin;;Arts;Sports;Sciences
+aucune saisie...;;;;;
+Yven;masculin;Lettres;;Sports;
+aucune saisie...;;;;;
+Manouhéla;autres;Lettres;Arts;;
+Yven;masculin;Lettres;Arts;Sports;Sciences
